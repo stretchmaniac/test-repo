@@ -26,3 +26,8 @@ for(var i = 2; i <= 100; i++){
 	}
 }
 
+console.log('and some triangular numbers!');
+for(var i = 0; i <= 100; i++){
+	console.log(i*(i+1)/2);
+}
+
