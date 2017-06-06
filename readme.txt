@@ -1,5 +1,1 @@
-Hello, this is Alan Koval's first git test. 
-
-Let's see if he can figure out how to use version control...
-
-This is a test, I want to see if I can commit new stuff...
+This is an entirely new readme. I thought I would just replace the whole thing and start afresh. This project does two things: it prints fizzbuzz and lists the primes from 1 to 100.
