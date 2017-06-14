@@ -4,9 +4,9 @@ for(var i = 0; i <= 100; i++){
 		s = "fizz";
 	}
 	if(i % 5 === 0){
-		S = "buzz";
+		s = "buzz";
 	}
-	if(i % 5 === 0 && i % 3 == 0){
+	if(i % 5 === 0 && i % 3 === 0){
 		s = "fizzbuzz";
 	}
 	console.log(s);
